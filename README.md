@@ -23,5 +23,3 @@ H2 creates the visitor table automatically. Its database is stored under the ser
 - pom.xml: Maven dependencies and WAR packaging
 
 This college demonstration requires server-side authorization and other security hardening before production deployment.
-
-The MERN hostel project is separate; a temporary copy is preserved on the hostel-mern-backup branch pending creation of its dedicated repository.
